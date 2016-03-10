@@ -1,0 +1,4 @@
+ You are in a room with three doors.
+ -Which door will you go through?
+ +Which door will you go through?
+ +I will choose the second door
